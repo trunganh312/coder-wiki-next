@@ -29,5 +29,5 @@ const PageNotFound = () => {
     </div>
   );
 };
-1
+
 export default PageNotFound;
